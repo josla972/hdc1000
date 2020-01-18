@@ -1,0 +1,8 @@
+{
+  "domain": "hdc1000",
+  "name": "HDC1000",
+  "documentation": "https://www.home-assistant.io/integrations/hdc1000",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
